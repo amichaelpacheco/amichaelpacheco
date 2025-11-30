@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/68ffe3c032ad652bc820eef4?variant=dark)](https://roadmap.sh)
 <!--
 **amichaelpacheco/amichaelpacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
